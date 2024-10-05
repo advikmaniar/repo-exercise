@@ -1,1 +1,1 @@
-# repo-exercis - minor update
+# repo-exercise - minor update
